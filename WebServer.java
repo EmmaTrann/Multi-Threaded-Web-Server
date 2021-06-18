@@ -1,4 +1,3 @@
-package uofm.sectionb02.id7876069.parta;
 
 import java.net.*;
 
