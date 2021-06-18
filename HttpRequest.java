@@ -1,4 +1,3 @@
-package uofm.sectionb02.id7876069.partb;
 
 import java.io.*;
 import java.net.*;
